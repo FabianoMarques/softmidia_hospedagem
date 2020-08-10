@@ -1,2 +1,2 @@
 # softmidia_hospedagem
-Teste feito no Laravel.
+Teste feito em uma hospegem web.
